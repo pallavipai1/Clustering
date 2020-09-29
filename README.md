@@ -3,10 +3,10 @@ Data set used:
 https://grouplens.org/datasets/movielens/
 
 1. Data Cleaning
+   
+   Loaded the movies.csv and rating.csv using pandas library
 
-  Loaded the movies.csv and rating.csv using pandas library
-
-  Performed data cleaning in movies data and removed the redundant records, null records and records without any movie ratings
+   Performed data cleaning in movies data and removed the redundant records, null records and records without any movie ratings
 
 
 2. Data Transformation
